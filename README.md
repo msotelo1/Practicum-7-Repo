@@ -1,6 +1,6 @@
 # Instructions  
 
-## PRACTICUM 7 - PROGRAM DEVELOPMENT<br>
+## PRACTICUM 7 - Fahrenheit to Celsius Program<br>
 
 ### BACKGROUND
 **Temperature Conversion Formula**<br>
